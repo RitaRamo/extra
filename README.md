@@ -15,3 +15,4 @@ pip install -r requirements.txt
 Evaluation package
 Download Stanford models for computing SPICE (a slightly modified version of this repo):
 ```./coco-caption/get_stanford_models.sh```
+
