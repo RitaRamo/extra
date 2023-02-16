@@ -1,4 +1,4 @@
-name: smallcap
+name: extra
 channels:
   - defaults
 dependencies:
